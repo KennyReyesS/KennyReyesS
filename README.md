@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KennyReyesS
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C language.
 - 📫 How to reach me: ...
 
 <!---
